@@ -5,8 +5,8 @@ I'm currently a master's student at Peking University.
 Email: zhuoran.zhang@stu.pku.edu.cn
 
 #### Education
-M.E., Geochemistry, Peking University, 2024—2027 (expected).\
-B.E., Geology, China University of Geosciences (Beijing), 2020—2024.
+M.S. in Geochemistry, Peking University, 2024—2027 (expected).\
+B.S. in Geology, China University of Geosciences, 2020—2024.
 
 #### Research Interests
 FTIR Analysis, Ion Microprobe, Statistics.
