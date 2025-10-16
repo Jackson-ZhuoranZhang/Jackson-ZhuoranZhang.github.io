@@ -1,36 +1,43 @@
+/* 导入基础样式文件（styles.css），确保继承通用样式 */
 @import "./styles.css";
 
-
-:root{
-    --h-title-color:#3948d2;
+/* 定义全局CSS变量，用于统一主题色 */
+:root {
+    --h-title-color: #2698ba; /* 标题主色：*/
 }
 
+/* 顶部导航栏样式 */
 .header {
-    border-bottom: solid 2px var(--bs-blue);
-    z-index: 10000;
+    border-bottom: solid 2px var(--bs-blue); /* 蓝色底边框 */
+    z-index: 10000; /* 确保导航栏浮在最上层 */
 }
 
+/* 页脚背景色（复用标题主色） */
 .bg-bottom {
     background-color: var(--h-title-color);
 }
 
+/* 顶部大背景区块设置 */
 .top-section {
-    position: relative;
-    padding: 10rem 0;
-    background-position: center;
-    background-size: cover;
-    height: 25rem;
+    position: relative; /* 允许内部元素绝对定位 */
+    padding: 10rem 0; /* 上下内边距 */
+    background-position: center; /* 背景图居中 */
+    background-size: cover; /* 背景图覆盖填充 */
+    height: 25rem; /* 固定高度 */
 }
 
+/* 顶部背景文字样式 */
 .top-section h2 {
-    font-weight: 400;
+    font-weight: 400; /* 正常字体粗细 */
 }
 
+/* 顶部背景内层内容 */
 .top-section .top-section-content {
     position: relative;
-    z-index: 1;
+    z-index: 1; /* 确保文字在遮罩层之上 */
 }
 
+/* 顶部背景添加半透明黑色遮罩，提高文字对比度 */
 .top-section:before {
     content: "";
     position: absolute;
@@ -41,35 +48,40 @@
     background: rgba(0, 0, 0, 0.5);
 }
 
-section header h2{
-    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: var(--h-title-color);
-    font-size: 2.3rem;
-    line-height: 4rem;
+/* 各个章节标题样式（如 Publications、Awards） */
+section header h2 {
+    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+        "Segoe UI Symbol", "Noto Color Emoji" !important; /* 使用Kanit字体族 */
+    color: var(--h-title-color); /* 使用统一标题主色 */
+    font-size: 2.3rem; /* 字号 */
+    line-height: 4rem; /* 行高 */
 }
 
-section .main-body{
-    font-size: 1.3rem;
-    font-weight: 200;
-    line-height: 2.4rem;
+/* 正文内容区样式 */
+section .main-body {
+    font-size: 1.3rem; /* 字体大小 */
+    font-weight: 200; /* 字体较细 */
+    line-height: 2.4rem; /* 行距 */
 }
 
-
+/* 浅色背景渐变（用于Home等部分） */
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
 }
 
+/* 灰色背景渐变（用于Publications部分） */
 .bg-gradient-primary-to-secondary-gray {
     background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
 
-
-
+/* 层级控制：置顶 */
 .on-top {
     position: relative;
     z-index: 10000;
 }
 
+/* 顶部背景图片样式 */
 .top-bg {
     background-position: center;
     background-size: fill;
@@ -77,6 +89,7 @@ section .main-body{
     height: 100%;
 }
 
+/* 顶部背景遮罩层（比 top-section 略浅） */
 .top-bg::before {
     content: "";
     position: absolute;
@@ -87,26 +100,26 @@ section .main-body{
     background: rgba(0, 0, 0, 0.4);
 }
 
-
+/* 头像容器设置 */
 #avatar {
     position: relative;
-    height: 0;
-    top:min(-65px,max(-100px,calc(-1*100vw/12)));
-    max-width: 55em;
-    margin: 0 1.5rem 0 0;
-    float: right;
-    z-index: 9000;
+    height: 0; /* 通过top调整垂直位置 */
+    top: min(-65px, max(-100px, calc(-1 * 100vw / 12))); /* 响应式上移 */
+    max-width: 55em; /* 最大宽度 */
+    margin: 0 1.5rem 0 0; /* 右侧间距 */
+    float: right; /* 右浮动 */
+    z-index: 9000; /* 置于较高层 */
 }
 
+/* 头像图片样式 */
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    height: max(130px, min(200px, calc(100vw / 6))); /* 响应式高度 */
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2); /* 阴影效果 */
 }
 
+/* 移动端适配：屏幕宽度小于991px时取消右边距 */
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
     }
 }
-
-
