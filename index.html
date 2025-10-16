@@ -15,10 +15,15 @@
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
-    <!-- 全局字体修改为 Arial -->
+    <!-- 全局字体 Arial 并保留加粗 -->
     <style>
-        * {
-            font-family: Arial, sans-serif !important;
+        body, h1, h2, h3, h4, h5, h6, p, li, a, span, div {
+            font-family: Arial, sans-serif;
+            font-weight: inherit; /* 保留原本粗细 */
+        }
+
+        strong {
+            font-weight: bold; /* 确保加粗生效 */
         }
     </style>
 
