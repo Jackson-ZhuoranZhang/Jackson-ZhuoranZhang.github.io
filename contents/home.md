@@ -2,13 +2,13 @@
 
 I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. 
 
-#### Contact
+#### <strong>Contact</strong>
 Email: zhuoran.zhang@stu.pku.edu.cn
 
-#### Education
+#### <strong>Education</strong>
 M.S. in Geochemistry, Peking University, 2024—2027 (expected).\
 B.S. in Geology, China University of Geosciences, 2020—2024.
 
-#### Research Interests
+#### <strong>Research Interests</strong>
 FTIR Analysis, Ion Microprobe, Statistics.
 
