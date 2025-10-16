@@ -1,6 +1,4 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ResearchGate](https://img.shields.io/badge/research_gate-%2300CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhuoran-Zhang-21?ev=hdr_xprf)
 
 I'm currently a master's student at Peking University.
 
