@@ -8,7 +8,7 @@
 
 /* 顶部导航栏样式 */
 .header {
-    border-bottom: solid 2px var(--bs-blue); /* 蓝色底边框 */
+    border-bottom: none; /* 无边框 */
     z-index: 10000; /* 确保导航栏浮在最上层 */
 }
 
