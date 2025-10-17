@@ -2,7 +2,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=q7HkKf0AAAAJ)
 [![Email](https://img.shields.io/badge/-Email-990000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:zhuoran.zhang@stu.pku.edu.cn)
 
-#### <strong>Welcome</strong>
+#### <strong>Welcome :)</strong>
 
 I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on isotope/experimental geochemistry. I work with Dr. Yang Li and Dr. Xi Liu. I obtained my bachelor's degree in Geology from the China University of Geosciences (Beijing), where I worked on high-pressure mineral physics under the supervision of Dr. Li Zhang.
 
@@ -14,10 +14,7 @@ My research involves:
 (4) Advancing coupled K–Ca and Rb–Sr chronometry in muscovite using ion microprobe techniques.
 I am also involved in the study of the Chang'e-6 returned samples.
 
-Outside of research, I enjoy science fiction and daydreaming in my spare time. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I go waltz dancing every two weeks. Like many who grew up in my generation, I also enjoy video games — especially first-person shooters such as Overwatch.
-
-
-
+Outside of research, I enjoy science fiction and daydreaming in my spare time. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I go waltz dancing every two weeks. Like many who grew up in my generation, I enjoy video games as well — especially first-person shooters such as Overwatch.
 
 #### <strong>News</strong>
 #### *Oct 17, 2025*<br>
