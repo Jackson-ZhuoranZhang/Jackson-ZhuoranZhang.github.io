@@ -10,6 +10,6 @@ Email: zhuoran.zhang@stu.pku.edu.cn
 M.S. in Geochemistry, Peking University, 2024—2027 (expected).\
 B.S. in Geology, China University of Geosciences, 2020—2024.
 
-#### <strong>Research Interests</strong>
-FTIR Analysis, Ion Microprobe, Statistics.
+<!--#### <strong>Research Interests</strong> -->
+<!--FTIR Analysis, Ion Microprobe, Statistics. -->
 
