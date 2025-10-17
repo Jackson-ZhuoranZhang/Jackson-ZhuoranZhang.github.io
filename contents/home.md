@@ -1,4 +1,5 @@
 [![ResearchGate](https://img.shields.io/badge/research_gate-%2300CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhuoran-Zhang-21)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8pqM0hAAAAAJ&hl=en&oi=ao)
 
 I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. I'm currently a master's student at Peking University. 
 
