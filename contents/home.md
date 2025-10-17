@@ -14,9 +14,9 @@ Outside of research, I enjoy science fictions and imagining in my spare times, a
 
 
 #### <strong>News</strong>
-#### Oct 17, 2025:<br>
+#### Oct 17, 2025<br>
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
-#### Sep 16, 2025:<br>
+#### Sep 16, 2025<br>
 I participated in the 1st Geochronology Summer School in China as a student assistant to Prof. Pieter Vermeesch.
 
 <!--#### <strong>Contact</strong> -->
