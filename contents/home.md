@@ -14,9 +14,10 @@ Outside of research, I enjoy science fictions and imagining in my spare times, a
 
 
 #### <strong>News</strong>
-Oct 17, 2025: Tony and Zhuoran find great agreement between our new infrared absorption model and the measured spectra, which makes us extremely excited. We are infinitely closed to resolve a long-standing debate!
-
-Sep 16, 2025: Zhuoran attend the 1st Geochronology Summer School in China as a student assistant for Prof. Pieter Vermeesch.
+#### Oct 17, 2025: 
+#### Tony and Zhuoran find great agreement between our new infrared absorption model and the measured spectra, which makes us extremely excited. We are infinitely closed to resolve a long-standing debate!
+#### Sep 16, 2025:
+#### Zhuoran attend the 1st Geochronology Summer School in China as a student assistant for Prof. Pieter Vermeesch.
 
 <!--#### <strong>Contact</strong> -->
 <!--Email: zhuoran.zhang@stu.pku.edu.cn -->
