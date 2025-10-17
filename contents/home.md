@@ -6,14 +6,14 @@
 
 I am currently a Master's student in the School of Earth and Space Sciences at Peking University in Beijing, China.
 
+#### <strong>News</strong>
 
+<!--#### <strong>Contact</strong> -->
+<!--Email: zhuoran.zhang@stu.pku.edu.cn -->
 
-#### <strong>Contact</strong>
-Email: zhuoran.zhang@stu.pku.edu.cn
-
-#### <strong>Education</strong>
-M.S. in Geochemistry, Peking University, 2024—2027 (expected).\
-B.S. in Geology, China University of Geosciences, 2020—2024.
+<!--#### #### <strong>Education</strong> -->
+<!--#### M.S. in Geochemistry, Peking University, 2024—2027 (expected).\ -->
+<!--#### B.S. in Geology, China University of Geosciences, 2020—2024. -->
 
 <!--#### <strong>Research Interests</strong> -->
 <!--FTIR Analysis, Ion Microprobe, Statistics. -->
