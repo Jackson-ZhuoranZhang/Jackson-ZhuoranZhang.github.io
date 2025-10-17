@@ -4,19 +4,25 @@
 
 #### <strong>Welcome</strong>
 
-I am currently a master's student in the School of Earth and Space Science of Peking University, with a major in Geochemistry, particularly in isotope and experimentally perspective, working with Yang Li and Xi Liu. I got mt bachelor degree in geology from the China University of Geosciences in Beijing, working on high pressure mineral physics, under supervision of Li Zhang.
+I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on isotope/experimental geochemistry. I work with Dr. Yang Li and Dr. Xi Liu. I obtained my bachelor's degree in Geology from the China University of Geosciences (Beijing), where I worked on high-pressure mineral physics under the supervision of Dr. Li Zhang.
 
-I am working on in micro-spatial in situ isotope analysis and infrared spectroscopy. My research involves: (1) Exploring the basic principles of infrared spectroscopy in anisotropic crystal, which has been controversial for decades. (2) Establishing a new quartz reference material for oxygen and silicon. We get a huge pure synthetic sample from the NDK company, which was created for microprocessors. (3) Developing a new Ion Microprobe reduction software for geochronology and stable isotopes. (4) Developing the coupled K-Ca and Rb-Sr chronology in muscovite via Ion Microprobe. I am incorporated in the study of Change'6 returned sample.
+I am working on micro-spatial in situ isotope analysis and infrared spectroscopy.
+My research involves:
+(1) Exploring the fundamental principles of infrared spectroscopy in anisotropic crystals, which have been debated for decades.
+(2) Establishing a new quartz reference material for oxygen and silicon isotopes, based on an ultra-pure synthetic crystal provided by NDK, originally produced for microprocessor applications.
+(3) Developing new ion microprobe data reduction software for geochronology and stable isotope analysis.
+(4) Advancing coupled K–Ca and Rb–Sr chronometry in muscovite using ion microprobe techniques.
+I am also involved in the study of the Chang'e-6 returned samples.
 
-Outside of research, I enjoy science fictions and imagining in my spare times, a crazy fan of Asimov, particularly his series "Galactic Empire", "Foundation" and "Robots". I am a rider and get a air dynamic road bike, I go Waltz dancing every two weeks as well. As a teenager boy, I do play video games, especially FPS, like the Overwatch.
+Outside of research, I enjoy science fiction and daydreaming in my spare time. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I go waltz dancing every two weeks. Like many who grew up in my generation, I also enjoy video games — especially first-person shooters such as Overwatch.
 
 
 
 
 #### <strong>News</strong>
-#### Oct 17, 2025<br>
+#### *Oct 17, 2025*<br>
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
-#### Sep 16, 2025<br>
+#### *Sep 16, 2025*<br>
 I participated in the 1st Geochronology Summer School in China as a student assistant to Prof. Pieter Vermeesch.
 
 <!--#### <strong>Contact</strong> -->
