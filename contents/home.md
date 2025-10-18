@@ -12,9 +12,9 @@ My research involves:
 (2) Establishing a new quartz reference material for oxygen and silicon isotopes, based on an ultra-pure synthetic crystal provided by NDK, originally produced for microprocessor applications.
 (3) Developing new ion microprobe data reduction software for geochronology and stable isotope analysis.
 (4) Advancing coupled K–Ca and Rb–Sr chronometry in muscovite using ion microprobe techniques.
-I am also involved in the study of the Chang'e-6 returned samples.
+I am also involved in the study of the Chang'e-6 returned samples. I have a strong interest in numerical methods, including machine learning and DFT calculations, though my current experience with them is limited.
 
-Outside of research, I enjoy science fiction and daydreaming in my spare time. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I go waltz dancing every two weeks. Like many who grew up in my generation, I enjoy video games as well — especially first-person shooters such as Overwatch.
+Outside of research, I enjoy science fiction and daydreaming in my spare time — I love the moments when my imagination runs free. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I practice modern dance every two weeks.
 
 #### <strong>News</strong>
 #### *Oct 17, 2025*<br>
