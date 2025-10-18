@@ -8,7 +8,7 @@ I am currently a master's student in the School of Earth and Space Sciences at P
 
 I am working on micro-spatial in situ isotope analysis and infrared spectroscopy.
 My research involves:
-(1) Exploring the fundamental principles of infrared spectroscopy in anisotropic crystals for quantifying volatiles, a topic that has been debated for decades.
+(1) Exploring the fundamental principles of infrared spectroscopy in anisotropic crystals for quantifying volatiles.
 (2) Establishing a new quartz reference material for oxygen and silicon isotopes, based on an ultra-pure synthetic crystal provided by NDK, originally produced for microprocessor applications.
 (3) Developing new ion microprobe data reduction software for geochronology and stable isotope analysis.
 (4) Advancing coupled K–Ca and Rb–Sr chronometry in muscovite using ion microprobe techniques.
