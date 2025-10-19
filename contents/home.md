@@ -20,7 +20,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 #### *Sep 30, 2025*<br>
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
 #### *Sep 10, 2025*<br>
-I participated in the 1st Geochronology Summer School in China as a student assistant to Prof. Pieter Vermeesch.
+I participated in the 1st Geochronology Summer School in China as an assistant to Prof. Pieter Vermeesch.
 
 <!--#### <strong>Contact</strong> -->
 <!--Email: zhuoran.zhang@stu.pku.edu.cn -->
