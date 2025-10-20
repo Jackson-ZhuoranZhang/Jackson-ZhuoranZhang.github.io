@@ -1,2 +1,2 @@
-- <strong>Zhuoran Zhang*</strong>, Anthony C. Withers*, Xi Liu, Li Zhang, and Yang Li. Revisiting quantitative infrared analysis in anisotropic media. American Mineralogist, under review.
-- Zhide Pu, <strong>Zhuoran Zhang</strong>, Xinjian Bao, Weiran Li, and Xi Liu*. Quantifying CO<sub>2</sub> in apatite by multiple unpolarized transmission FTIR analyses. Solid Earth Sciences, 2025.
+- <strong>Zhuoran Zhang*</strong>, Anthony C. Withers*, Xi Liu, Li Zhang, and Yang Li. Revisiting quantitative infrared analysis in anisotropic media. *American Mineralogist*, submitted.
+- Zhide Pu, <strong>Zhuoran Zhang</strong>, Xinjian Bao, Weiran Li, and Xi Liu*. Quantifying CO<sub>2</sub> in apatite by multiple unpolarized transmission FTIR analyses. *Solid Earth Sciences*, 2025.
