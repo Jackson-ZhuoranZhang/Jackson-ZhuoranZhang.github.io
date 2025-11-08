@@ -17,6 +17,11 @@ I am also involved in the study of the Chang'e-6 returned samples. I have a stro
 Outside of research, I enjoy science fiction and daydreaming in my spare time — I love the moments when my imagination runs free. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I practice modern dance every two weeks.
 
 #### <strong>News</strong>
+#### *Nov 2, 2025*<br>
+On my way to attending a meeting.
+<p align="center">
+  <img src="../assets/selfie.jpg" alt="On my way to the meeting" width="400">
+</p>
 #### *Sep 30, 2025*<br>
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
 #### *Sep 10, 2025*<br>
