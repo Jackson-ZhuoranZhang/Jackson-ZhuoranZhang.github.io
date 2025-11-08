@@ -18,7 +18,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 
 #### <strong>News</strong>
 #### *Nov 2, 2025*
-On my way to attending a meeting.
+Heading to a formal meetingâ€”please ignore my dark circles.
 <p align="center">
   <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="1200">
 </p>
