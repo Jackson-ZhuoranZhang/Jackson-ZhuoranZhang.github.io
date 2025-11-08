@@ -23,7 +23,7 @@ On my way to attending a meeting.
   <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="1200">
 </p>
 
-### *Sep 30, 2025*
+#### *Sep 30, 2025*
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
 
 #### *Sep 10, 2025*
