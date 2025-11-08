@@ -20,7 +20,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 ### *Nov 2, 2025*
 Heading to a formal meetingâ€”please ignore my dark circles.
 <div style="text-align:center;">
-  <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="610">
+  <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="400">
 </div>
 
 ### *Sep 30, 2025*
