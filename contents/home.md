@@ -22,9 +22,11 @@ On my way to attending a meeting.
 <p align="center">
   <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="400">
 </p>
-#### *Sep 30, 2025*<br>
+
+#### *Sep 30, 2025*
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
-#### *Sep 10, 2025*<br>
+
+#### *Sep 10, 2025*
 I participated in the 1st Geochronology Summer School in China as an assistant to Prof. Pieter Vermeesch.
 
 <!--#### <strong>Contact</strong> -->
