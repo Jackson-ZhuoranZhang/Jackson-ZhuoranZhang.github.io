@@ -20,7 +20,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 #### *Nov 2, 2025*<br>
 On my way to attending a meeting.
 <p align="center">
-  <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="800">
+  <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="1200">
 </p>
 
 #### *Sep 30, 2025*
