@@ -2,7 +2,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=q7HkKf0AAAAJ)
 [![Email](https://img.shields.io/badge/-Email-990000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:zhuoran.zhang@stu.pku.edu.cn)
 
-## <strong>Welcome :)</strong>
+### <strong>Welcome :)</strong>
 
 I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on experimental and isotope geochemistry. I work with Dr. [Xi Liu](https://sess.pku.edu.cn/info/1153/1915.htm) and Dr. [Yang Li](https://faculty.pku.edu.cn/liy). I obtained my bachelor's degree in Geology from the China University of Geosciences, where I worked on high-pressure mineral physics under the supervision of Dr. [Li Zhang](https://scholar.cugb.edu.cn/scholar/scholarDetail/2593.shtml).
 
