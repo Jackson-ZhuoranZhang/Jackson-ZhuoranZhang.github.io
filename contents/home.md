@@ -17,7 +17,7 @@ I am also involved in the study of the Chang'e-6 returned samples. I have a stro
 Outside of research, I enjoy science fiction and daydreaming in my spare time — I love the moments when my imagination runs free. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I practice modern dance every two weeks.
 
 ### <strong>News</strong>
-### *Nov 2, 2025*
+### *Nov 3, 2025*
 Heading to a formal meeting—please ignore my dark circles.
 <div style="text-align:center;">
   <img src="/static/assets/selfie.jpg" alt="On my way to the meeting" width="400">
