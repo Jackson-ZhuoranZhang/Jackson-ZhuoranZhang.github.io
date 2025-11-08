@@ -19,9 +19,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 #### <strong>News</strong>
 #### *Nov 2, 2025*<br>
 On my way to attending a meeting.
-<p align="center">
-  <img src="/assets/selfie.jpg" alt="On my way to the meeting" width="400">
-</p>
+![selfie](/assets/selfie.jpg)
 #### *Sep 30, 2025*<br>
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
 #### *Sep 10, 2025*<br>
