@@ -4,7 +4,7 @@
 
 #### <strong>Welcome :)</strong>
 
-I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on isotope and experimental geochemistry. I work with Dr. [Yang Li](https://faculty.pku.edu.cn/liy) and Dr. [Xi Liu](https://sess.pku.edu.cn/info/1153/1915.htm). I obtained my bachelor's degree in Geology from the China University of Geosciences, where I worked on high-pressure mineral physics under the supervision of Dr. [Li Zhang](https://scholar.cugb.edu.cn/scholar/scholarDetail/2593.shtml).
+I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on experimental and isotope geochemistry. I work with Dr. [Xi Liu](https://sess.pku.edu.cn/info/1153/1915.htm) and Dr. [Yang Li](https://faculty.pku.edu.cn/liy). I obtained my bachelor's degree in Geology from the China University of Geosciences, where I worked on high-pressure mineral physics under the supervision of Dr. [Li Zhang](https://scholar.cugb.edu.cn/scholar/scholarDetail/2593.shtml).
 
 I am working on micro-spatial in situ isotope analysis and infrared spectroscopy.
 My research involves:
