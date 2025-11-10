@@ -10,7 +10,7 @@ My current research includes:
 (1) Investigating the physical and chemical properties of Phase A (ongoing).  
 (2) Exploring the fundamental principles of infrared spectroscopy in anisotropic crystals for quantifying volatiles (completed)).  
 (3) Establishing a new quartz reference material for oxygen and silicon isotopes, based on an ultra-pure synthetic crystal provided by NDK, originally produced for microprocessor applications (in progress).  
-(3) Developing new ion microprobe data reduction software for geochronology and stable isotope analysis (team project).  
+(4) Developing new ion microprobe data reduction software for geochronology and stable isotope analysis (team project).  
 (5) Advancing coupled K–Ca and Rb–Sr chronometry in muscovite using ion microprobe techniques (awaiting corresponding SIMS ion source).  
 Additionally, I am involved in studying the Chang'e-6 returned samples, and I have a strong interest in numerical methods, including machine learning and DFT calculations, although my current experience in these areas is limited.
 
