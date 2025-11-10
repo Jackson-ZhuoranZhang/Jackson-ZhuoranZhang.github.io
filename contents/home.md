@@ -4,7 +4,7 @@
 
 ### <strong>Welcome :)</strong>
 
-I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on experimental and isotope geochemistry. I work with Dr. [Li Zhang](https://scholar.cugb.edu.cn/scholar/scholarDetail/2593.shtml) (main advisor), Dr. [Xi Liu](https://sess.pku.edu.cn/info/1153/1915.htm), and Dr. [Yang Li](https://faculty.pku.edu.cn/liy). Prior to this, I earned my bachelor's degree in Geology from the China University of Geosciences, where I conducted research in high-pressure mineral physics and spectroscopy.
+I am currently a master's student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry with a focus on experimental and isotope geochemistry. I work with Dr. [Li Zhang](https://scholar.cugb.edu.cn/scholar/scholarDetail/2593.shtml) (primary advisor), Dr. [Xi Liu](https://sess.pku.edu.cn/info/1153/1915.htm), and Dr. [Yang Li](https://faculty.pku.edu.cn/liy). Prior to this, I earned my bachelor's degree in Geology from the China University of Geosciences, where I conducted research in high-pressure mineral physics and spectroscopy.
 
 My current research includes:
 (1) Investigating the physical and chemical properties of Phase A (ongoing).
