@@ -25,9 +25,15 @@ Heading to a formal meeting—please ignore my dark circles.
 
 ### *Sep 30, 2025*
 Tony and I found excellent agreement between our new infrared absorption model and the measured spectra, which makes us very excited. We are getting extremely close to resolving a long-standing debate!
+<div style="text-align:center;">
+  <img src="/static/assets/Olivine.jpg" alt="" width="500">
+</div>
 
 ### *Sep 10, 2025*
 I participated in the 1st Geochronology Summer School in China as an assistant to Prof. Pieter Vermeesch.
+<div style="text-align:center;">
+  <img src="/static/assets/Pieter.jpg" alt="" width="500">
+</div>
 
 ### *Jul 10, 2023*
 View of the Valley of the Kings from a hot air balloon.
