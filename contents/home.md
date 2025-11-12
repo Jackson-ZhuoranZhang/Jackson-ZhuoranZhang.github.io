@@ -20,7 +20,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 ### *Nov 2, 2025*
 Heading to a formal meetingâ€”please ignore my dark circles.
 <div style="text-align:center;">
-  <img src="/static/assets/1.jpg" alt="" width="500">
+  <img src="/static/assets/Selfie.jpg" alt="" width="500">
 </div>
 
 ### *Sep 30, 2025*
@@ -32,7 +32,7 @@ I participated in the 1st Geochronology Summer School in China as an assistant t
 ### *Jul 10, 2023*
 View of the Valley of the Kings from a hot air balloon.
 <div style="text-align:center;">
-  <img src="/static/assets/2.jpg" alt="" width="500">
+  <img src="/static/assets/Egypt.jpg" alt="" width="500">
 </div>
 
 <!--#### <strong>Contact</strong> -->
