@@ -9,7 +9,7 @@ I am currently a Master's student in the School of Earth and Space Sciences at P
 Outside of research, I enjoy science fiction and daydreaming in my spare time — I love the moments when my imagination runs free. I'm a huge fan of Isaac Asimov, particularly his *Galactic Empire*, *Foundation*, and *Robot* series. I'm also a cyclist with an aerodynamic road bike, and I practice modern dance every two weeks.
 
 ### <strong>News</strong>
-### *Nov 2, 2025*
+### *Nov 17, 2025*
 My first experience as an intern...
 <div style="text-align:center;">
   <img src="/static/assets/Selfie.jpg" alt="" width="500">
