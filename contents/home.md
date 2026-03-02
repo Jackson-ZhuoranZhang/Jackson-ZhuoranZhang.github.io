@@ -10,7 +10,7 @@ Outside of research, I enjoy science fiction and daydreaming in my spare time â€
 
 ### <strong>News</strong>
 ### *Nov 2, 2025*
-Heading to a formal meetingâ€”please ignore my dark circles.
+My first experience as an intern...
 <div style="text-align:center;">
   <img src="/static/assets/Selfie.jpg" alt="" width="500">
 </div>
